@@ -395,7 +395,7 @@ class AccountScreenBottom extends StatelessWidget {
                 ),
           ),
           subtitle: Text(
-            'وش ودك تفيد الناس فيه اليوم؟',
+            'تفلسف و اكتب نظرتك عن الحياة',
             style: Theme.of(context).textTheme.subtitle.merge(
                   TextStyle(fontSize: 14),
                 ),
@@ -420,7 +420,7 @@ class AccountScreenBottom extends StatelessWidget {
                   TextStyle(color: Colors.white),
                 ),
           ),
-          subtitle: Text('وش ودك تفيد الكل فيه اليوم؟',
+          subtitle: Text('نص سيظهر للجميع ، لكن لا أحد يهتم',
               style: Theme.of(context).textTheme.subtitle.merge(
                     TextStyle(fontSize: 14),
                   )),
